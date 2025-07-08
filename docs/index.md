@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Martin Ward
+# 👋 Hello, I'm Martin Ward.
 
 Welcome to my personal portfolio!
 
