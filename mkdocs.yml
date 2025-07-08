@@ -1,0 +1,34 @@
+site_name: Martin Ward Portfolio
+site_url: https://martin-jerry-ward.github.io/website/
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - content.action.edit
+
+repo_url: https://github.com/martin-jerry-ward/website
+repo_name: GitHub
+edit_uri: ""
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
